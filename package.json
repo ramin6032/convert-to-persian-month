@@ -1,6 +1,6 @@
 {
   "name": "convert-to-persian-month-antd",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A utility to convert calendar month names to Persian (Farsi) names in ant design datePicker",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -30,12 +30,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramin6032/convert-to-persian-month-antd.git"
+    "url": "git+https://github.com/ramin6032/convert-to-persian-month.git"
   },
   "bugs": {
-    "url": "https://github.com/ramin6032/convert-to-persian-month-antd/issues"
+    "url": "https://github.com/ramin6032/convert-to-persian-month/issues"
   },
-  "homepage": "https://github.com/ramin6032/convert-to-persian-month-antd#readme",
+  "homepage": "https://github.com/ramin6032/convert-to-persian-month#readme",
   "devDependencies": {
     "typescript": "^5.8.2"
   },
